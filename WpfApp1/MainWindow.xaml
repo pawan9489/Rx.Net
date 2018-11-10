@@ -1,0 +1,20 @@
+﻿<Window x:Class="WpfApp1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <StackPanel>
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="20 20">
+                <TextBox Name="start" Margin="5 5">Start</TextBox>
+                <TextBox Name="count" Margin="5 5">Count</TextBox>
+            </StackPanel>
+            <Button Name="generate" Click="Button_Click" Width="200" Margin="5 5" Content="Generate"></Button>
+            <Button Name="stop" Click="Button_Click_1" Width="200" Margin="5 5" Content="Stop" IsEnabled="False"></Button>
+            <TextBox Width="500" HorizontalAlignment="Center" VerticalScrollBarVisibility="Auto" Name="text"></TextBox>
+        </StackPanel>
+    </Grid>
+</Window>
