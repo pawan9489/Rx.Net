@@ -1,0 +1,14 @@
+S:\Learnings\C#\RxExtensions\CombiningOperators\bin\Debug\CombiningOperators.exe.config
+S:\Learnings\C#\RxExtensions\CombiningOperators\bin\Debug\CombiningOperators.exe
+S:\Learnings\C#\RxExtensions\CombiningOperators\bin\Debug\CombiningOperators.pdb
+S:\Learnings\C#\RxExtensions\CombiningOperators\bin\Debug\System.Reactive.dll
+S:\Learnings\C#\RxExtensions\CombiningOperators\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+S:\Learnings\C#\RxExtensions\CombiningOperators\bin\Debug\System.Threading.Tasks.Extensions.dll
+S:\Learnings\C#\RxExtensions\CombiningOperators\bin\Debug\System.ValueTuple.dll
+S:\Learnings\C#\RxExtensions\CombiningOperators\bin\Debug\System.Reactive.xml
+S:\Learnings\C#\RxExtensions\CombiningOperators\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+S:\Learnings\C#\RxExtensions\CombiningOperators\bin\Debug\System.Threading.Tasks.Extensions.xml
+S:\Learnings\C#\RxExtensions\CombiningOperators\bin\Debug\System.ValueTuple.xml
+S:\Learnings\C#\RxExtensions\CombiningOperators\obj\Debug\CombiningOperators.exe
+S:\Learnings\C#\RxExtensions\CombiningOperators\obj\Debug\CombiningOperators.pdb
+S:\Learnings\C#\RxExtensions\CombiningOperators\obj\Debug\CombiningOperators.csprojResolveAssemblyReference.cache
