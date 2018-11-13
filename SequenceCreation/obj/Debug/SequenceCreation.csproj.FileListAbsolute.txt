@@ -1,0 +1,14 @@
+S:\Learnings\C#\RxExtensions\SequenceCreation\bin\Debug\SequenceCreation.exe.config
+S:\Learnings\C#\RxExtensions\SequenceCreation\bin\Debug\SequenceCreation.exe
+S:\Learnings\C#\RxExtensions\SequenceCreation\bin\Debug\SequenceCreation.pdb
+S:\Learnings\C#\RxExtensions\SequenceCreation\bin\Debug\System.Reactive.dll
+S:\Learnings\C#\RxExtensions\SequenceCreation\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+S:\Learnings\C#\RxExtensions\SequenceCreation\bin\Debug\System.Threading.Tasks.Extensions.dll
+S:\Learnings\C#\RxExtensions\SequenceCreation\bin\Debug\System.ValueTuple.dll
+S:\Learnings\C#\RxExtensions\SequenceCreation\bin\Debug\System.Reactive.xml
+S:\Learnings\C#\RxExtensions\SequenceCreation\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+S:\Learnings\C#\RxExtensions\SequenceCreation\bin\Debug\System.Threading.Tasks.Extensions.xml
+S:\Learnings\C#\RxExtensions\SequenceCreation\bin\Debug\System.ValueTuple.xml
+S:\Learnings\C#\RxExtensions\SequenceCreation\obj\Debug\SequenceCreation.csprojResolveAssemblyReference.cache
+S:\Learnings\C#\RxExtensions\SequenceCreation\obj\Debug\SequenceCreation.exe
+S:\Learnings\C#\RxExtensions\SequenceCreation\obj\Debug\SequenceCreation.pdb
